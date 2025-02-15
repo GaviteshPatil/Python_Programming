@@ -1,0 +1,15 @@
+#program to convert the decimal number into binary format
+print("the", end=' ')
+print('big', end=' ')
+print("black", end=' ')
+print('box', end=' ')
+print("the")
+print("big \n\n black")
+print("box")
+the_sky_is_blue = True
+food_is_bad = False
+print(the_sky_is_blue, food_is_bad)
+
+
+#program to print the ABC..
+for x in range(
